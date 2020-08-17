@@ -1,0 +1,67 @@
+.navbar {
+    background-color: lightgray;
+    border: solid black 1px;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    font-size: 2em;
+    color: black;
+}
+
+#collapsable-nav {
+    margin-top: 0;
+}
+
+#nav-list {
+    font-weight: bold;
+    font-size: 1.5em;
+    background-color:dimgray;
+    color: black;
+    margin-top: 0;
+    margin-bottom: 0;
+    border-color: solid black;
+}
+
+.navbar-default .navbar-toggle:hover{
+ border: solid white;
+}
+
+.navbar-default .navbar-toggle:hover .icon-bar {
+    background-color: white;
+}
+
+#nav-list a {
+    color: white
+}
+
+#nav-list a:hover {
+    background: white;
+    color: black;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: black;
+}
+
+li {
+    border: solid black 1px;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+.col-xs-12, .col-sm-12, .col-md-12 {
+    background-color: gainsboro;
+    margin-left: 20px;
+}
+
+p.text-center {
+    font-weight: bold;
+    font-size: 1.8em;
+}
+
+.row {
+    width: 100%;
+}
